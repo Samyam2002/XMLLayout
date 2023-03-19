@@ -1,4 +1,4 @@
-# Words App
+# XML Layout App
 
 This folder contains the source code for the XML Layout app codelab.
 
